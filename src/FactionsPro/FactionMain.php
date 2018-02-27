@@ -22,7 +22,7 @@ class FactionMain extends PluginBase implements Listener{
 	public $war_req = [];
 	public $wars = [];
 	public $war_players = [];
-	private $prefix = "§l§f[§bFactions§f] §r";
+	private $prefix = "§0[§6SkyRealm§dFactions§0]";
 
 	public function onEnable(){
 		
